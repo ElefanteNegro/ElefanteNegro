@@ -1,7 +1,8 @@
 <h1 align="center">Hi there!!,🐘 I'm Álvarez Leandro</h1>
 <h3 align="center">Crazy about logical puzzles</h3>
 
-- 📫 How to reach me **elefantenegro64@gmail.com**
+[![imagen.png](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
+- 📫 **elefantenegro64@gmail.com**
 
 </p>
 <p align="center">
