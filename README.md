@@ -1,7 +1,6 @@
 <h1 align="center">Hi there!!,🐘 I'm Álvarez Leandro</h1>
 <h3 align="center">Crazy about logical puzzles</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elefantenegro&label=Profile%20views&color=0e75b6&style=flat" alt="elefantenegro" /> </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-agustin-alvarez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leandro-agustin-alvarez/" height="30" width="40" /></a>
