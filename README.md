@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!!,🐘 I'm Álvarez Leandro</h1>
+<h1 align="center">🐘 I'm Álvarez Leandro</h1>
 <h3 align="center">Crazy about logical puzzles</h3>
 
 [![imagen.png](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
