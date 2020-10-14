@@ -1,8 +1,8 @@
-<h1 align="center">🐘 I'm Álvarez Leandro</h1>
+<h1 align="center">🐘 I'm Álvarez Leandro 🐘</h1>
 <h3 align="center">Crazy about logical puzzles</h3>
 
 [![imagen.png](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
-- 📫 **elefantenegro64@gmail.com**
+
 
 ******
 </p>
@@ -15,7 +15,7 @@
 ******
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 <p align="center"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
   
@@ -47,3 +47,23 @@
   <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
   </p>  
+  
+  ******
+<h1 align="center">🐘 Proyects 🐘</h1>
+
+
+    eCommerce
+<img align="left" width= "30%" src='PETSHOP.png' /><img align="center" width= "30%" src='PETSHOP2.png' /><img align="right" width= "30%" src='PETSHOP3.png' />
+
+
+
+    
+
+    Fundación el Potrero
+
+<img align="left" width= "30%" src='potrero1.jpg' /><img align="center" width= "30%" src='potrero2.jpg' /><img align="right" width= "30%" src='potrero3.jpg' />
+
+     
+  ******
+  
+  - 📫 **elefantenegro64@gmail.com**
