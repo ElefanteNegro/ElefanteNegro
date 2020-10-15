@@ -63,12 +63,13 @@
   ```
   
  Me: 📫 **elefantenegro64@gmail.com**
+    <a href='https://postimg.cc/hfQFkcY1' target='_blank'><img align="right" src='https://i.postimg.cc/hfQFkcY1/Henry-certificate-Leandro-Alvarez.png' border='2' alt='Henry-certificate-Leandro-Alvarez'/></a>
  
- 
-  <p align="center">
+  <p align="left">
         <a href="https://linkedin.com/in/leandro-agustin-alvarez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leandro-agustin-alvarez/" height="30" width="40" />LinkedIn</a>
         <a href="https://instagram.com/leandroagustinalvarez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/leandroagustinalvarez/" height="30" width="40" />Instagram</a>
         <a href="https://www.hackerrank.com/elefantenegro64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="elefantenegro64" height="30" width="40" />HackeRank</a>
        </p>
        
+
    You wanna challenge me ? [ElefanteNegro's Lichess Profile](https://lichess.org/@/ElefanteNegro "ElefanteNegro's Lichess Profile")
