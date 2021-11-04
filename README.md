@@ -2,7 +2,6 @@
 
 [![imagen.png](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
 
- 
   ******
 
 
