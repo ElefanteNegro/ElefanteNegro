@@ -1,7 +1,5 @@
 <h1 align="center">Elephants never forget</h1>
 
-[![imagen.png](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
-
   ******
 
 
