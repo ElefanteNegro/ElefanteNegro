@@ -1,8 +1,5 @@
 <h1 align="center">Elephants never forget</h1>
 
-  ******
-
-
   
 📫 **elefantenegro64@gmail.com**
   <p align="center">
